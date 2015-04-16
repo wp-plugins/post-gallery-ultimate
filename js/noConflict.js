@@ -1,0 +1,1 @@
+var jqueryF = jQuery.noConflict( true );
